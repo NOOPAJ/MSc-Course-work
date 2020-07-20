@@ -1,1 +1,2 @@
-# MSc-Course-work
+# CSCI 5010G – Survey of Computer Science Research Topics and Methods. 
+This course is a survey of some of the main research topics in computer science and the corresponding computer science research methods. Topics covered vary from year to year and may include digital media, computer graphics, human-computer interaction, computer networks, security, health informatics, databases and software design. Research methods covered include library methods, topic analysis, data management, technical writing, presentations, evaluation methods and peer review. This course included guest lectures by experts in the research topics covered.
