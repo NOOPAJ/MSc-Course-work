@@ -1,2 +1,3 @@
-# My app
-Learning git
+# CSCI 5020G: Collaborative Design & Research 
+This course is about teamwork, organization, presentation, and tackling significant real-world projects. The course is designed to provide you with a forum to put into action what is learned in other courses. The course required to do a multi-week project in teams of two or three students. The project is designed to provide opportunities for teams to engage in designing computer science-based solutions with holistic consideration of a breadth of computer-science subdisciplines (interface design, security, software engineering, efficiency and scalability, human factors and empirical computer science, databases) as well as considering the business side of the software. 
+ 
