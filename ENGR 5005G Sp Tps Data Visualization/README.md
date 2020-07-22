@@ -1,2 +1,3 @@
-# My app
-Learning git
+# ENGR 5005G: Data Visualization
+In this course, various visualization techniques are covered and their applications in real-world problems are investigated. The main focus is on scientific visualizations which facilitates pattern exploration easier and also human computer interactions more effective. The objective of this course is to comprehensively understand and apply the principles of visualization techniques with real-world applications in engineering and science.  Very effective hybrid visualization techniques is designed to discover hidden complex patterns in large-scale big data.  
+ 
