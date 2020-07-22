@@ -1,0 +1,1 @@
+vignette("googleVis_examples", package="googleVis") 
